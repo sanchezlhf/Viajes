@@ -23,6 +23,7 @@ echo "<script>
 ?>
 
     <h1>AGENCIA DE VIAJES IACC S8</h1>
+    <!-- SE MODIFICA EL N° DE LA SEMANA CORRESPONDIENTE-->
     <p>Por favor, ingresar destino y fecha a realizar el viaje</p>
  <div class="search-container">
    <input type="text" id="destination" placeholder="Destino">
